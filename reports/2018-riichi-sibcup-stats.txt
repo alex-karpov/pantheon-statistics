@@ -1,0 +1,712 @@
+
+Закончился десятый юбилейный рождественский турнир по риичи-мадзяну, имевший статус Чемпионата России. Играли по правилам JPML-B в течение семи игровых сессий на восьми столах. Участвовали 32 игрока, из которых 9 иногородних. На турнире использовалась система Pantheon, результаты и детальную статистику по игрокам можно посмотреть <a href="https://gui.mjtop.net/eid59/stat?l=ru" target="_blank">здесь</a>. <!--Также доступны <a href="https://vk.com/album-16285126_247606647" target="_blank">фотографии с турнира</a>.-->
+
+<!--more-->
+
+Сыграно 591 раздач, из которых:
+<ul>
+	<li>359 (61%) выигрышей по рон</li>
+	<li>165 (28%) выигрышей по цумо</li>
+	<li>61 (10%) ничьих (из них только одна — все нотен)</li>
+  <li>4 (0.68%) пересдачи</li>
+  <li>2 (0.34%) чомбо</li>
+</ul>
+
+Собрано 908 яку, из которых:
+<table>
+<tbody>
+  <tr>
+    <td>Якухай: всего</th>
+    <td>197</th>
+  </tr>
+  <tr>
+    <td>Риичи</td>
+    <td>209</td>
+  </tr>
+  <tr>
+    <td>Якухай ×1</td>
+    <td>140</td>
+  </tr>
+  <tr>
+    <td>Таняо</td>
+    <td>119</td>
+  </tr>
+  <tr>
+    <td>Мендзен цумо</td>
+    <td>88</td>
+  </tr>
+  <tr>
+    <td>Пинфу</td>
+    <td>87</td>
+  </tr>
+  <tr>
+    <td>Хоницу</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Иппацу</td>
+    <td>41</td>
+  </tr>
+  <tr>
+    <td>Тойтой</td>
+    <td>34</td>
+  </tr>
+  <tr>
+    <td>Якухай ×2</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>Иипейко</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>Саншоку</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Чиитойцу</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Чанта</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>Иццу</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Чиницу</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Джунчан</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Риншан кайхо</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Сананко</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Хотей</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Дабл риичи</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Хайтей</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Якухай ×3</td>
+    <td>1</td>
+  </tr>
+</tbody>
+</table>
+
+Объявлено 407 риичи, из которых выиграло 209 (51%) (в том числе одно дабл-риичи), а 36 (8,9%) набросов в рон было произведено из-за риичи. Лидер по числу набросов в рон из-под риичи — <strong>Роман Санжаров</strong> (4 раза).
+
+По соотношению рон/цумо и набросов:
+<table>
+<tbody>
+  <tr>
+    <th style="width:180px">Имя</th>
+    <th>Раздач</th>
+    <th>Рон</th>
+    <th>Цумо</th>
+    <th>Набросов</th>
+    <th>% выигрыша</th>
+    <th>% набросов</th>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Гончаренко Александр</td>
+    <td>77</td>
+    <td>19</td>
+    <td>5</td>
+    <td>12</td>
+    <td>31.2%</td>
+    <td>15.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Ким София</td>
+    <td>78</td>
+    <td>16</td>
+    <td>7</td>
+    <td>10</td>
+    <td>29.5%</td>
+    <td>12.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Бычкова Нина</td>
+    <td>73</td>
+    <td>14</td>
+    <td>7</td>
+    <td>8</td>
+    <td>28.8%</td>
+    <td>11.0%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Матвеева Алена</td>
+    <td>72</td>
+    <td>13</td>
+    <td>7</td>
+    <td>11</td>
+    <td>27.8%</td>
+    <td>15.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мервин Виктор</td>
+    <td>66</td>
+    <td>12</td>
+    <td>6</td>
+    <td>11</td>
+    <td>27.3%</td>
+    <td>16.7%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Романова Юлия</td>
+    <td>69</td>
+    <td>13</td>
+    <td>5</td>
+    <td>10</td>
+    <td>26.1%</td>
+    <td>14.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Гоман Роман</td>
+    <td>71</td>
+    <td>12</td>
+    <td>6</td>
+    <td>8</td>
+    <td>25.4%</td>
+    <td>11.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Соколов Михаил</td>
+    <td>79</td>
+    <td>11</td>
+    <td>9</td>
+    <td>13</td>
+    <td>25.3%</td>
+    <td>16.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Столбова Анастасия</td>
+    <td>76</td>
+    <td>12</td>
+    <td>7</td>
+    <td>6</td>
+    <td>25.0%</td>
+    <td>7.9%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мешин Виталий</td>
+    <td>74</td>
+    <td>12</td>
+    <td>6</td>
+    <td>9</td>
+    <td>24.3%</td>
+    <td>12.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Санжаров Роман</td>
+    <td>74</td>
+    <td>14</td>
+    <td>4</td>
+    <td>7</td>
+    <td>24.3%</td>
+    <td>9.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Кузькоков Сергей</td>
+    <td>77</td>
+    <td>15</td>
+    <td>3</td>
+    <td>12</td>
+    <td>23.4%</td>
+    <td>15.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Фалько Ирина</td>
+    <td>83</td>
+    <td>14</td>
+    <td>5</td>
+    <td>16</td>
+    <td>22.9%</td>
+    <td>19.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Матсаков Дмитрий</td>
+    <td>75</td>
+    <td>8</td>
+    <td>9</td>
+    <td>12</td>
+    <td>22.7%</td>
+    <td>16.0%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Муксинова Лилия</td>
+    <td>84</td>
+    <td>13</td>
+    <td>6</td>
+    <td>15</td>
+    <td>22.6%</td>
+    <td>17.9%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Стрелков Павел</td>
+    <td>82</td>
+    <td>12</td>
+    <td>6</td>
+    <td>19</td>
+    <td>22.0%</td>
+    <td>23.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Шабанова Виста</td>
+    <td>69</td>
+    <td>11</td>
+    <td>4</td>
+    <td>8</td>
+    <td>21.7%</td>
+    <td>11.6%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Титова Елена</td>
+    <td>70</td>
+    <td>12</td>
+    <td>3</td>
+    <td>20</td>
+    <td>21.4%</td>
+    <td>28.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Ким Валерия</td>
+    <td>71</td>
+    <td>13</td>
+    <td>2</td>
+    <td>8</td>
+    <td>21.1%</td>
+    <td>11.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Рева Руслан</td>
+    <td>76</td>
+    <td>13</td>
+    <td>3</td>
+    <td>11</td>
+    <td>21.1%</td>
+    <td>14.5%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Карпов Александр</td>
+    <td>72</td>
+    <td>14</td>
+    <td>1</td>
+    <td>17</td>
+    <td>20.8%</td>
+    <td>23.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Калинин Иван</td>
+    <td>74</td>
+    <td>9</td>
+    <td>6</td>
+    <td>9</td>
+    <td>20.3%</td>
+    <td>12.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Соломонов Андрей</td>
+    <td>74</td>
+    <td>13</td>
+    <td>2</td>
+    <td>8</td>
+    <td>20.3%</td>
+    <td>10.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Тимофеев Валентин</td>
+    <td>73</td>
+    <td>10</td>
+    <td>4</td>
+    <td>12</td>
+    <td>19.2%</td>
+    <td>16.4%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Свирид Станислав</td>
+    <td>84</td>
+    <td>7</td>
+    <td>9</td>
+    <td>9</td>
+    <td>19.0%</td>
+    <td>10.7%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Пух Максим</td>
+    <td>76</td>
+    <td>9</td>
+    <td>5</td>
+    <td>9</td>
+    <td>18.4%</td>
+    <td>11.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Федоркевич Антон</td>
+    <td>66</td>
+    <td>7</td>
+    <td>5</td>
+    <td>6</td>
+    <td>18.2%</td>
+    <td>9.1%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Ольберг Иван</td>
+    <td>72</td>
+    <td>8</td>
+    <td>5</td>
+    <td>16</td>
+    <td>18.1%</td>
+    <td>22.2%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Казанцева Полина</td>
+    <td>70</td>
+    <td>7</td>
+    <td>5</td>
+    <td>14</td>
+    <td>17.1%</td>
+    <td>20.0%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мазин Дмитрий</td>
+    <td>70</td>
+    <td>7</td>
+    <td>5</td>
+    <td>10</td>
+    <td>17.1%</td>
+    <td>14.3%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Киселев Максим</td>
+    <td>64</td>
+    <td>3</td>
+    <td>5</td>
+    <td>13</td>
+    <td>12.5%</td>
+    <td>20.3%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Левин Сергей</td>
+    <td>73</td>
+    <td>6</td>
+    <td>3</td>
+    <td>10</td>
+    <td>12.3%</td>
+    <td>13.7%</td>
+  </tr>
+</tbody>
+</table>
+
+Красным отмечены те, у кого суммарное число рон+цумо меньше, чем число набросов в рон. 
+
+<strong>Сергей Кузькоков</strong> сыграл все 7 ханчанов полностью, у <strong>Нины Бычковой</strong>, <strong>Виталия Мешина</strong>, <strong>Максима Пуха</strong> и <strong>Висты Шабановой</strong> 5 ханчанов закончились по времени. Всего, 23 ханчана из 56 (41%) не были доиграны до конца по времени. Пять ханчанов закончились убийствами игроков, дважды пострадал <strong>Максим Киселёв</strong>.
+
+<table>
+<tbody>
+  <tr style="background-color: #dfd;">
+    <th style="width:180px">Имя</th>
+    <th>Выигрыш</th>
+    <th>Выплат по&nbsp;рон</th>
+    <th>Выплат по&nbsp;цумо</th>
+    <th>Чужие риичи</th>
+    <th>Доры</th>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Ким София</td>
+    <td>122200</td>
+    <td>26300</td>
+    <td>24500</td>
+    <td>14</td>
+    <td>33</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Соколов Михаил</td>
+    <td>107900</td>
+    <td>98400</td>
+    <td>32100</td>
+    <td>10</td>
+    <td>23</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Фалько Ирина</td>
+    <td>101200</td>
+    <td>95000</td>
+    <td>41100</td>
+    <td>5</td>
+    <td>20</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Матвеева Алена</td>
+    <td>97700</td>
+    <td>76100</td>
+    <td>22600</td>
+    <td>12</td>
+    <td>10</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мервин Виктор</td>
+    <td>95600</td>
+    <td>51800</td>
+    <td>23300</td>
+    <td>10</td>
+    <td>15</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Кузькоков Сергей</td>
+    <td>93700</td>
+    <td>54700</td>
+    <td>18000</td>
+    <td>4</td>
+    <td>22</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Гончаренко Александр</td>
+    <td>92600</td>
+    <td>72500</td>
+    <td>28200</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Романова Юлия</td>
+    <td>92000</td>
+    <td>40500</td>
+    <td>17100</td>
+    <td>6</td>
+    <td>11</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Титова Елена</td>
+    <td>91600</td>
+    <td>91600</td>
+    <td>24900</td>
+    <td>1</td>
+    <td>16</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Муксинова Лилия</td>
+    <td>90500</td>
+    <td>67100</td>
+    <td>24500</td>
+    <td>4</td>
+    <td>13</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Ким Валерия</td>
+    <td>86800</td>
+    <td>29500</td>
+    <td>45700</td>
+    <td>3</td>
+    <td>31</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Соломонов Андрей</td>
+    <td>85500</td>
+    <td>29000</td>
+    <td>33000</td>
+    <td>5</td>
+    <td>19</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Бычкова Нина</td>
+    <td>85100</td>
+    <td>40900</td>
+    <td>25800</td>
+    <td>6</td>
+    <td>16</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Калинин Иван</td>
+    <td>77700</td>
+    <td>51600</td>
+    <td>32100</td>
+    <td>4</td>
+    <td>17</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мешин Виталий</td>
+    <td>76300</td>
+    <td>34600</td>
+    <td>38100</td>
+    <td>7</td>
+    <td>7</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Санжаров Роман</td>
+    <td>72900</td>
+    <td>55500</td>
+    <td>29700</td>
+    <td>5</td>
+    <td>8</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Рева Руслан</td>
+    <td>70300</td>
+    <td>62400</td>
+    <td>19100</td>
+    <td>9</td>
+    <td>16</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Шабанова Виста</td>
+    <td>70300</td>
+    <td>40500</td>
+    <td>36200</td>
+    <td>9</td>
+    <td>14</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Мазин Дмитрий</td>
+    <td>69000</td>
+    <td>40900</td>
+    <td>33200</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Федоркевич Антон</td>
+    <td>67300</td>
+    <td>26500</td>
+    <td>22900</td>
+    <td>2</td>
+    <td>15</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Карпов Александр</td>
+    <td>67200</td>
+    <td>45600</td>
+    <td>27600</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Стрелков Павел</td>
+    <td>66600</td>
+    <td>104200</td>
+    <td>26900</td>
+    <td>5</td>
+    <td>11</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Тимофеев Валентин</td>
+    <td>64100</td>
+    <td>62300</td>
+    <td>23700</td>
+    <td>4</td>
+    <td>12</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Пух Максим</td>
+    <td>59800</td>
+    <td>36800</td>
+    <td>39000</td>
+    <td>5</td>
+    <td>15</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Столбова Анастасия</td>
+    <td>59000</td>
+    <td>35600</td>
+    <td>27400</td>
+    <td>3</td>
+    <td>7</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Казанцева Полина</td>
+    <td>58200</td>
+    <td>63000</td>
+    <td>13000</td>
+    <td>3</td>
+    <td>11</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Матсаков Дмитрий</td>
+    <td>57300</td>
+    <td>56300</td>
+    <td>22500</td>
+    <td>6</td>
+    <td>7</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Гоман Роман</td>
+    <td>56800</td>
+    <td>34900</td>
+    <td>32800</td>
+    <td>4</td>
+    <td>12</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Свирид Станислав</td>
+    <td>50600</td>
+    <td>54900</td>
+    <td>35500</td>
+    <td>12</td>
+    <td>10</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Ольберг Иван</td>
+    <td>47300</td>
+    <td>77700</td>
+    <td>20200</td>
+    <td>8</td>
+    <td>6</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td>Левин Сергей</td>
+    <td>37700</td>
+    <td>35000</td>
+    <td>17400</td>
+    <td>2</td>
+    <td>10</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td>Киселев Максим</td>
+    <td>11600</td>
+    <td>94700</td>
+    <td>41100</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+</tbody>
+</table>
+
+Красным выделены выигравшие меньше, чем набросили в рон. Выигрыш включает в себя победы по рон и цумо, включая хонбу и чужие риичи-палки, в том числе и оставшиеся с предыдущих раздач. Выплаты по рон и цумо включают хонбу.
+
+Официальные награды получили:
+<ul>
+  <li><strong>Александр Гончаренко</strong> за убедительную победу в номинации ветророжденной мамки драконов, собравший 17 якухаев за турнир.</li>
+  <li><strong>София Ким</strong> в номинации «Тыждилер» за наибольшее число побед на дилере (9). Столько же побед на дилере и у <strong>Нины Бычковой</strong>.</li>
+  <li><strong>Максим Киселёв</strong> в номинации «ляг и лежи в направлении мечты» (за последнее место на турнире).</li>
+  <li><strong>Сергей Кузькоков</strong> — юбилейную награду за десятое, юбилейное, место на турнире.</li>
+</ul>
+
+Знаете ли вы, что:
+<ul>
+  <li><strong>София Ким</strong> заработала больше всего очков. Средняя стоимость руки — 5300.</li>
+  <li><strong>Антон Федоркевич</strong> меньше всех заплатил по рон и цумо (49400). Но и <strong>София Ким</strong> заплатила всего на 1400 больше.</li>
+	<li>Заочная номинация «Отважный сапёр» уходит <strong>Елене Титовой</strong>, опередившей всех количеству набросов в рон.</li>
+	<li><strong>Валерия Ким</strong> сильнее всех пострадала от чужих цумо.</li>
+	<li><strong>София Ким</strong> съела больше всего чужих риичи-палок.</li>
+	<li>Больше всего дор собрала <strong>София Ким</strong> (в среднем 1.4 доры в победной руке). Наиболее бережное отношение к дорам у <strong>Валерии Ким</strong> (2.1 доры в руке). Хуже всех встраивал доры <strong>Максим Киселёв</strong> — 0.125 доры в руке. Всего за турнир собрано 432 доры, в среднем 0.82 доры в руке.</li>
+  <li>Приветствуем самого многогранного игрока <strong>Антона Федоркевича</strong>, собравшего 13 различных яку за турнир!</li>
+  <li>Самую дорогую рука турнира (11 хан) собрал <strong>Иван Калинин</strong> (риичи, иппацу, цумо, дора 8). Якуманов никто не собрал.</li>
+</ul>
+
