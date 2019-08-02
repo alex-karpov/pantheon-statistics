@@ -1,5 +1,3 @@
-
-
 yaku_map_eng = {
     34: 'Daburu riichi',
     19: 'Dai sangen',

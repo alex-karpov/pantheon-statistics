@@ -3,6 +3,7 @@ import json
 import math
 from typing import Dict, List, Tuple
 
+
 class GameStatus():
     riichi_bets: int
     honba: int
@@ -22,10 +23,12 @@ class GameStatus():
 def load_games_from_file(games_json):
     with open(games_json, encoding='utf-8') as outfile:
         return json.load(outfile)
-    
+
+
 def load_participating_players_from_file(participating_players_json):
     with open(participating_players_json, encoding='utf-8') as outfile:
         return json.load(outfile)
+
 
 def mjtop_request(data: Dict) -> Dict:
     api_url = 'https://api.mjtop.net/'
@@ -45,6 +48,7 @@ def mjtop_request(data: Dict) -> Dict:
         
     return result
 
+
 def load_games_from_mjtop(event_id):
     data = {
        "jsonrpc": "2.0",
@@ -59,6 +63,7 @@ def load_games_from_mjtop(event_id):
     result = mjtop_request(data)
     if result:
         return result['games']
+
 
 def load_participating_players_from_mjtop(event_id):
     data = {
@@ -165,7 +170,7 @@ def player_payment_dict():
     return payment_dict
 
 
-def get_dealer_id(round_index: int, game: Dict[str, int]) -> int:
+def get_dealer_id(round_index: int, game: Dict) -> int:
     return game['players'][(round_index - 1) % 4]
 
 
@@ -236,7 +241,6 @@ def _calculate_points_draw(round_: Dict, status: GameStatus, game: Dict) -> Dict
         payment['losses_noten'] = 3000
     
     return payment
-    
 
 
 def _round_up_to_100(number: int):
@@ -642,20 +646,23 @@ outcome_processors = {
     'chombo': process_chombo_outcome,
 }
 
+
 def process_game(game: Dict, participating_players: Dict) -> Dict[int, Dict[str, int]]:
     status = GameStatus()
 
     game_diffs = {}
     for player_id in game['players']:
         game_diffs[player_id] = player_statistics_dict(player_id, participating_players)
-        
+
+    diffs = {}
     for round_ in game['rounds']:
         diffs, status = outcome_processors[round_['outcome']](round_, status, game)
         
         for player_id in diffs:
             add_difference(
                 base=game_diffs[player_id],
-                diff=diffs[player_id])
+                diff=diffs[player_id]
+            )
     
     for player_id in diffs:
         game_diffs[player_id]['num_games'] = 1
@@ -663,9 +670,6 @@ def process_game(game: Dict, participating_players: Dict) -> Dict[int, Dict[str,
             game_diffs[player_id]['num_games_aborted'] = 1
     
     return game_diffs
-
-
-
 
 
 if __name__ == '__main__':
@@ -696,6 +700,7 @@ if __name__ == '__main__':
 
     with open('games.json', encoding='utf-8') as outfile:
         games = json.load(outfile)
+
     with open('participating_players.json', encoding='utf-8') as outfile:
         participating_players = json.load(outfile)
 
@@ -708,7 +713,8 @@ if __name__ == '__main__':
                 players[player_id] = player_statistics_dict(player_id, participating_players)
             add_difference(
                 base=players[player_id],
-                diff=diffs[player_id])   
+                diff=diffs[player_id]
+            )
         print()
     
     print(players)   
