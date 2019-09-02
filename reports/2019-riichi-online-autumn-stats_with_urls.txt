@@ -1,0 +1,976 @@
+Закончился осенний <a href="https://mahjong.click/ru/tournaments/riichi/autumn-online-tournament-2019/">онлайн-турнир</a> на платформе Маджонг портала. Организовывал турнир иркутский клуб <a href="https://mahjong.click/ru/clubs/riichi/rinshan-kaihou-irkutsk-riichi-mahjong-club/">Риншан Кайхо</a>, проводил Алексей Лисихин. 40 игроков, 10 столов, семь туров  по правилам tenhou.net <a href="https://mahjong.click/ru/tournaments/riichi/autumn-online-tournament-2019/announcement/">с небольшими изменениями</a>. Организация игроков в чате Telegram, подведение итогов в системе Pantheon, результаты и детальную статистику по игрокам можно посмотреть <a href="https://gui.mjtop.net/eid216/stat?l=ru" target="_blank">здесь</a>.
+
+Победили <a href="https://gui.mjtop.net/eid216/user/20?l=ru">Александр Карпов</a>, <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> и <a href="https://gui.mjtop.net/eid216/user/65?l=ru">Анастасия Суслова</a>. Новосибирск представляли шесть человек. 
+
+Статистику по другим турнирам можно найти <a href="https://furiten.ru/index.php/category/статистика/">здесь</a>.
+
+<!--more-->
+
+Сыграно 829 раздач, из которых:
+<ul>
+  <li>502 (60%) выигрышей по рон, из них 10 (1.2%) — дабл-рон</li>
+  <li>234 (28%) выигрышей по цумо</li>
+  <li>89 (11%) ничьих (из них одна — все нотен)</li>
+  <li>4 (0.5%) пересдач</li>
+</ul>
+
+<table>
+<tbody>
+  <tr>
+    <td>Якухай: всего</td>
+    <td>327</td>
+    <td>64%</td>
+  </tr>
+  <tr>
+    <td>Риичи</td>
+    <td>297</td>
+    <td>58%</td>
+  </tr>
+  <tr>
+    <td>Якухай 1</td>
+    <td>211</td>
+    <td>41%</td>
+  </tr>
+  <tr>
+    <td>Таняо</td>
+    <td>157</td>
+    <td>31%</td>
+  </tr>
+  <tr>
+    <td>Мендзен цумо</td>
+    <td>138</td>
+    <td>27%</td>
+  </tr>
+  <tr>
+    <td>Пин-фу</td>
+    <td>137</td>
+    <td>27%</td>
+  </tr>
+  <tr>
+    <td>Иппацу</td>
+    <td>61</td>
+    <td>12%</td>
+  </tr>
+  <tr>
+    <td>Хоницу</td>
+    <td>60</td>
+    <td>12%</td>
+  </tr>
+  <tr>
+    <td>Якухай 2</td>
+    <td>49</td>
+    <td>9.6%</td>
+  </tr>
+  <tr>
+    <td>Иипейко</td>
+    <td>43</td>
+    <td>8.4%</td>
+  </tr>
+  <tr>
+    <td>Тойтой</td>
+    <td>21</td>
+    <td>4.1%</td>
+  </tr>
+  <tr>
+    <td>Саншоку</td>
+    <td>20</td>
+    <td>3.9%</td>
+  </tr>
+  <tr>
+    <td>Иццу</td>
+    <td>17</td>
+    <td>3.3%</td>
+  </tr>
+  <tr>
+    <td>Чиитойцу</td>
+    <td>16</td>
+    <td>3.1%</td>
+  </tr>
+  <tr>
+    <td>Чанта</td>
+    <td>11</td>
+    <td>2.1%</td>
+  </tr>
+  <tr>
+    <td>Чиницу</td>
+    <td>6</td>
+    <td>1.2%</td>
+  </tr>
+  <tr>
+    <td>Якухай 3</td>
+    <td>6</td>
+    <td>1.2%</td>
+  </tr>
+  <tr>
+    <td>Риншан кайхо</td>
+    <td>4</td>
+    <td>0.78%</td>
+  </tr>
+  <tr>
+    <td>Сананко</td>
+    <td>4</td>
+    <td>0.78%</td>
+  </tr>
+  <tr>
+    <td>Джунчан</td>
+    <td>3</td>
+    <td>0.59%</td>
+  </tr>
+  <tr>
+    <td>Дабл риичи</td>
+    <td>2</td>
+    <td>0.39%</td>
+  </tr>
+  <tr>
+    <td>Дайсанген</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>Кокуши мусо</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>Хайтей</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>Хонрото</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>Хотей</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>Чанкан</td>
+    <td>1</td>
+    <td>0.2%</td>
+  </tr>
+</tbody>
+</table>
+
+Объявлено 557 риичи, из которых выиграло 297 (53%) (в том числе два дабл-риичи). 51 (11%) наброс в рон было произведено из-за риичи. Больше всех набросили в рон из-под риичи <a href="https://gui.mjtop.net/eid216/user/225?l=ru">Владислав Плясунов</a> и <a href="https://gui.mjtop.net/eid216/user/733?l=ru">Евгений Денисов</a> — по 4 раза. Было <a href="http://tenhou.net/0/?log=2019090120gm-0009-11032-f6acb186&tw=2&ts=8">четыре</a> <a href="http://tenhou.net/0/?log=2019090120gm-0009-11032-84197c0b&tw=0&ts=10">раздачи</a> с <a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-3dfe8498&tw=1&ts=4">тремя</a> <a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-ca82efa3&tw=2&ts=12">риичи</a> на столе.
+
+<a href="https://gui.mjtop.net/eid216/user/847?l=ru">Ольга Гришина</a> выиграла больше всего чужих риичи-палок (включая оставшиеся с прошлой раздачи) — 14 штук. Больше всех риичи-палочек потеряли <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a>, <a href="https://gui.mjtop.net/eid216/user/733?l=ru">Евгений Денисов</a> и <a href="https://gui.mjtop.net/eid216/user/237?l=ru">Роман Перфильев</a> — по 11 штук. Наиболее бережно риичи-палочкам относились <a href="https://gui.mjtop.net/eid216/user/218?l=ru">Виталий Борзоногов</a>, выиграв 9 риичи из 11 (82%) и <a href="https://gui.mjtop.net/eid216/user/570?l=ru">Ренат Курмаев</a>: 7 из 9 (78%).
+
+<a href="https://gui.mjtop.net/eid216/user/514?l=ru">Александра Янц</a>, <a href="https://gui.mjtop.net/eid216/user/1479?l=ru">Варвара Кульгаева</a> и <a href="https://gui.mjtop.net/eid216/user/321?l=ru">Анна Петрова</a> 4 из 9 (44%) закрытых рук выиграли из даматена. Наибольший процент открытых рук у <a href="https://gui.mjtop.net/eid216/user/519?l=ru">Любови Мишаковой</a> (13 из 17, 76%), <a href="https://gui.mjtop.net/eid216/user/378?l=ru">Олега Кима</a> (9 из 12, 75%) и <a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Николая Нетесова</a> (6 из 8, 75%). Наибольший процент закрытых рук у <a href="https://gui.mjtop.net/eid216/user/310?l=ru">Павла Богачева</a> (13 из 20, 65%), <a href="https://gui.mjtop.net/eid216/user/15?l=ru">Елены Титовой</a>, <a href="https://gui.mjtop.net/eid216/user/750?l=ru">Владимира Ладыгина</a> и <a href="https://gui.mjtop.net/eid216/user/16?l=ru">Ирины Фалько</a> (11 из 17, 65%) и <a href="https://gui.mjtop.net/eid216/user/567?l=ru">Марии Соколовой</a> (7 из 11, 64%).
+
+По соотношению рон/цумо и набросов:
+<table>
+  <tr>
+    <th style="width:210px">Имя</th>
+    <th>Раздач</th>
+    <th>Рон</th>
+    <th>Цумо</th>
+    <th>Набросов</th>
+    <th>% выигрыша</th>
+    <th>% набросов</th>
+  </tr>
+<tbody>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/20?l=ru">Карпов Александр</a></td>
+    <td>83</td>
+    <td>19</td>
+    <td>8</td>
+    <td>13</td>
+    <td>32.5%</td>
+    <td>15.7%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/263?l=ru">Елшанкин Андрей</a></td>
+    <td>81</td>
+    <td>22</td>
+    <td>4</td>
+    <td>12</td>
+    <td>32.1%</td>
+    <td>14.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/65?l=ru">Суслова Анастасия</a></td>
+    <td>77</td>
+    <td>15</td>
+    <td>8</td>
+    <td>8</td>
+    <td>29.9%</td>
+    <td>10.4%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/321?l=ru">Петрова Анна</a></td>
+    <td>84</td>
+    <td>19</td>
+    <td>6</td>
+    <td>10</td>
+    <td>29.8%</td>
+    <td>11.9%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/218?l=ru">Борзоногов Виталий</a></td>
+    <td>81</td>
+    <td>12</td>
+    <td>11</td>
+    <td>15</td>
+    <td>28.4%</td>
+    <td>18.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/316?l=ru">Мишаков Дмитрий</a></td>
+    <td>88</td>
+    <td>15</td>
+    <td>9</td>
+    <td>16</td>
+    <td>27.3%</td>
+    <td>18.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/733?l=ru">Денисов Евгений</a></td>
+    <td>85</td>
+    <td>16</td>
+    <td>7</td>
+    <td>16</td>
+    <td>27.1%</td>
+    <td>18.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Вовненко Григорий</a></td>
+    <td>84</td>
+    <td>12</td>
+    <td>10</td>
+    <td>10</td>
+    <td>26.2%</td>
+    <td>11.9%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/514?l=ru">Янц Александра</a></td>
+    <td>88</td>
+    <td>17</td>
+    <td>6</td>
+    <td>13</td>
+    <td>26.1%</td>
+    <td>14.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/879?l=ru">Зыкова Софья</a></td>
+    <td>96</td>
+    <td>19</td>
+    <td>6</td>
+    <td>15</td>
+    <td>26.0%</td>
+    <td>15.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/55?l=ru">Лисихина Людмила</a></td>
+    <td>78</td>
+    <td>14</td>
+    <td>5</td>
+    <td>12</td>
+    <td>24.4%</td>
+    <td>15.4%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/12?l=ru">Мешин Виталий</a></td>
+    <td>87</td>
+    <td>14</td>
+    <td>7</td>
+    <td>10</td>
+    <td>24.1%</td>
+    <td>11.5%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Потапов Павел</a></td>
+    <td>79</td>
+    <td>14</td>
+    <td>5</td>
+    <td>23</td>
+    <td>24.1%</td>
+    <td>29.1%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/310?l=ru">Богачев Павел</a></td>
+    <td>83</td>
+    <td>12</td>
+    <td>8</td>
+    <td>12</td>
+    <td>24.1%</td>
+    <td>14.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/847?l=ru">Гришина Ольга</a></td>
+    <td>97</td>
+    <td>13</td>
+    <td>10</td>
+    <td>22</td>
+    <td>23.7%</td>
+    <td>22.7%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/388?l=ru">Колпаков Денис</a></td>
+    <td>76</td>
+    <td>10</td>
+    <td>8</td>
+    <td>10</td>
+    <td>23.7%</td>
+    <td>13.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/214?l=ru">Богданов Владимир</a></td>
+    <td>85</td>
+    <td>17</td>
+    <td>3</td>
+    <td>7</td>
+    <td>23.5%</td>
+    <td>8.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/70?l=ru">Ермолаев Андрей</a></td>
+    <td>86</td>
+    <td>13</td>
+    <td>7</td>
+    <td>8</td>
+    <td>23.3%</td>
+    <td>9.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1509?l=ru">Моторин Александр</a></td>
+    <td>82</td>
+    <td>11</td>
+    <td>8</td>
+    <td>8</td>
+    <td>23.2%</td>
+    <td>9.8%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/382?l=ru">Пенкин Кирилл</a></td>
+    <td>87</td>
+    <td>13</td>
+    <td>7</td>
+    <td>14</td>
+    <td>23.0%</td>
+    <td>16.1%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/570?l=ru">Курмаев Ренат</a></td>
+    <td>84</td>
+    <td>16</td>
+    <td>3</td>
+    <td>17</td>
+    <td>22.6%</td>
+    <td>20.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/36?l=ru">Порошин Семен</a></td>
+    <td>85</td>
+    <td>15</td>
+    <td>4</td>
+    <td>9</td>
+    <td>22.4%</td>
+    <td>10.6%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/237?l=ru">Перфильев Роман</a></td>
+    <td>76</td>
+    <td>12</td>
+    <td>5</td>
+    <td>13</td>
+    <td>22.4%</td>
+    <td>17.1%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/258?l=ru">Андрющенко Дмитрий</a></td>
+    <td>86</td>
+    <td>14</td>
+    <td>5</td>
+    <td>14</td>
+    <td>22.1%</td>
+    <td>16.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/16?l=ru">Фалько Ирина</a></td>
+    <td>77</td>
+    <td>12</td>
+    <td>5</td>
+    <td>13</td>
+    <td>22.1%</td>
+    <td>16.9%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/9?l=ru">Ким Валерия</a></td>
+    <td>88</td>
+    <td>12</td>
+    <td>7</td>
+    <td>10</td>
+    <td>21.6%</td>
+    <td>11.4%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1479?l=ru">Кульгаева Варвара</a></td>
+    <td>84</td>
+    <td>11</td>
+    <td>7</td>
+    <td>13</td>
+    <td>21.4%</td>
+    <td>15.5%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/15?l=ru">Титова Елена</a></td>
+    <td>80</td>
+    <td>12</td>
+    <td>5</td>
+    <td>18</td>
+    <td>21.2%</td>
+    <td>22.5%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/810?l=ru">Клочков Андрей</a></td>
+    <td>71</td>
+    <td>9</td>
+    <td>6</td>
+    <td>7</td>
+    <td>21.1%</td>
+    <td>9.9%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/750?l=ru">Ладыгин Владимир</a></td>
+    <td>81</td>
+    <td>11</td>
+    <td>6</td>
+    <td>10</td>
+    <td>21.0%</td>
+    <td>12.3%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/519?l=ru">Мишакова Любовь</a></td>
+    <td>81</td>
+    <td>13</td>
+    <td>4</td>
+    <td>9</td>
+    <td>21.0%</td>
+    <td>11.1%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1085?l=ru">Кригер Лариса</a></td>
+    <td>29</td>
+    <td>6</td>
+    <td>0</td>
+    <td>5</td>
+    <td>20.7%</td>
+    <td>17.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/10?l=ru">Матвеева Алена</a></td>
+    <td>75</td>
+    <td>9</td>
+    <td>6</td>
+    <td>9</td>
+    <td>20.0%</td>
+    <td>12.0%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/249?l=ru">Шведов Евгений</a></td>
+    <td>86</td>
+    <td>14</td>
+    <td>3</td>
+    <td>12</td>
+    <td>19.8%</td>
+    <td>14.0%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/753?l=ru">Бердников Александр</a></td>
+    <td>74</td>
+    <td>11</td>
+    <td>1</td>
+    <td>12</td>
+    <td>16.2%</td>
+    <td>16.2%</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/225?l=ru">Плясунов Владислав</a></td>
+    <td>77</td>
+    <td>6</td>
+    <td>6</td>
+    <td>11</td>
+    <td>15.6%</td>
+    <td>14.3%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/817?l=ru">Подлипаев Сергей</a></td>
+    <td>84</td>
+    <td>7</td>
+    <td>6</td>
+    <td>14</td>
+    <td>15.5%</td>
+    <td>16.7%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/378?l=ru">Ким Олег</a></td>
+    <td>86</td>
+    <td>7</td>
+    <td>5</td>
+    <td>13</td>
+    <td>14.0%</td>
+    <td>15.1%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/567?l=ru">Соколова Мария</a></td>
+    <td>81</td>
+    <td>9</td>
+    <td>2</td>
+    <td>15</td>
+    <td>13.6%</td>
+    <td>18.5%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/326?l=ru">Игрок замены 1</a></td>
+    <td>48</td>
+    <td>5</td>
+    <td>1</td>
+    <td>6</td>
+    <td>12.5%</td>
+    <td>12.5%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Нетесов Николай</a></td>
+    <td>84</td>
+    <td>4</td>
+    <td>4</td>
+    <td>11</td>
+    <td>9.5%</td>
+    <td>13.1%</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/770?l=ru">Лавникевич Сергей</a></td>
+    <td>12</td>
+    <td>0</td>
+    <td>0</td>
+    <td>7</td>
+    <td>0.0%</td>
+    <td>58.3%</td>
+  </tr>
+</tbody>
+</table>
+
+Красным отмечены те, у кого суммарное число рон + цумо меньше, чем число набросов в рон. Наброс в дабл-рон считался за два.
+
+<ul>
+  <li><a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> провела 30 раздач на дилере, одержав 10 дилерских побед и набрав 93&nbsp;000 очков. На втором месте <a href="https://gui.mjtop.net/eid216/user/847?l=ru">Ольга Гришина</a>: 9 побед в 28 дилерских раздачах, 75&nbsp;000 очков.</li>
+  <li>У <a href="https://gui.mjtop.net/eid216/user/10?l=ru">Алены Матвеевой</a>, <a href="https://gui.mjtop.net/eid216/user/817?l=ru">Сергея Подлипаева</a> и <a href="https://gui.mjtop.net/eid216/user/810?l=ru">Андрея Клочкова</a> дилерство не задалось: одна победа на 7&nbsp;700 … 12&nbsp;000 за 14–15 дилерских раздач.</li>
+  <li><a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Николай Нетесов</a> принял участие (выигрыш или наброс) всего в 19 раздачах из 84 (23%), <a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Павел Потапов</a> — в 42 раздачах из 79 (53%).</li>
+  <li>Самая непробиваемая защита у <a href="https://gui.mjtop.net/eid216/user/214?l=ru">Владимира Богданова</a> (8.2% наброса в рон), <a href="https://gui.mjtop.net/eid216/user/70?l=ru">Андрея Ермолаева</a> (9.3%), <a href="https://gui.mjtop.net/eid216/user/1509?l=ru">Александра Моторина</a> (9.8%) и <a href="https://gui.mjtop.net/eid216/user/810?l=ru">Андрея Клочкова</a> (9.9%).</li>
+</ul>
+
+<table>
+  <tr>
+    <th style="width:180px">Имя</th>
+    <th>Выигрыш</th>
+    <th>Выплат по&nbsp;рон</th>
+    <th>Выплат по&nbsp;цумо</th>
+    <th>Чужие риичи</th>
+    <th>Доры</th>
+  </tr>
+<tbody>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/263?l=ru">Елшанкин Андрей</a></td>
+    <td>206400</td>
+    <td>92500</td>
+    <td>23700</td>
+    <td>11</td>
+    <td>33</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/879?l=ru">Зыкова Софья</a></td>
+    <td>197600</td>
+    <td>91200</td>
+    <td>24500</td>
+    <td>13</td>
+    <td>31</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Вовненко Григорий</a></td>
+    <td>190800</td>
+    <td>76200</td>
+    <td>37100</td>
+    <td>5</td>
+    <td>30</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/218?l=ru">Борзоногов Виталий</a></td>
+    <td>183300</td>
+    <td>91100</td>
+    <td>18500</td>
+    <td>10</td>
+    <td>27</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/20?l=ru">Карпов Александр</a></td>
+    <td>182500</td>
+    <td>70400</td>
+    <td>28900</td>
+    <td>10</td>
+    <td>35</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/321?l=ru">Петрова Анна</a></td>
+    <td>173300</td>
+    <td>84100</td>
+    <td>29900</td>
+    <td>9</td>
+    <td>26</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/214?l=ru">Богданов Владимир</a></td>
+    <td>164500</td>
+    <td>47400</td>
+    <td>26800</td>
+    <td>4</td>
+    <td>37</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/316?l=ru">Мишаков Дмитрий</a></td>
+    <td>163700</td>
+    <td>121100</td>
+    <td>21500</td>
+    <td>10</td>
+    <td>30</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1509?l=ru">Моторин Александр</a></td>
+    <td>154500</td>
+    <td>41800</td>
+    <td>40300</td>
+    <td>6</td>
+    <td>31</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/733?l=ru">Денисов Евгений</a></td>
+    <td>153800</td>
+    <td>98000</td>
+    <td>17000</td>
+    <td>8</td>
+    <td>34</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/65?l=ru">Суслова Анастасия</a></td>
+    <td>149900</td>
+    <td>40300</td>
+    <td>23300</td>
+    <td>7</td>
+    <td>32</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/382?l=ru">Пенкин Кирилл</a></td>
+    <td>149700</td>
+    <td>80300</td>
+    <td>16300</td>
+    <td>6</td>
+    <td>27</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/847?l=ru">Гришина Ольга</a></td>
+    <td>147200</td>
+    <td>118500</td>
+    <td>29600</td>
+    <td>14</td>
+    <td>25</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/310?l=ru">Богачев Павел</a></td>
+    <td>146000</td>
+    <td>57700</td>
+    <td>28800</td>
+    <td>8</td>
+    <td>24</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/570?l=ru">Курмаев Ренат</a></td>
+    <td>138900</td>
+    <td>92000</td>
+    <td>22000</td>
+    <td>2</td>
+    <td>30</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/514?l=ru">Янц Александра</a></td>
+    <td>136200</td>
+    <td>64600</td>
+    <td>46700</td>
+    <td>8</td>
+    <td>22</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Потапов Павел</a></td>
+    <td>132700</td>
+    <td>137100</td>
+    <td>38500</td>
+    <td>4</td>
+    <td>29</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/258?l=ru">Андрющенко Дмитрий</a></td>
+    <td>131700</td>
+    <td>101600</td>
+    <td>43900</td>
+    <td>6</td>
+    <td>26</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/70?l=ru">Ермолаев Андрей</a></td>
+    <td>128900</td>
+    <td>53200</td>
+    <td>35500</td>
+    <td>8</td>
+    <td>31</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/15?l=ru">Титова Елена</a></td>
+    <td>126100</td>
+    <td>142700</td>
+    <td>45800</td>
+    <td>6</td>
+    <td>31</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/9?l=ru">Ким Валерия</a></td>
+    <td>123700</td>
+    <td>40000</td>
+    <td>44100</td>
+    <td>13</td>
+    <td>20</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/12?l=ru">Мешин Виталий</a></td>
+    <td>109000</td>
+    <td>50200</td>
+    <td>33500</td>
+    <td>4</td>
+    <td>21</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/753?l=ru">Бердников Александр</a></td>
+    <td>106000</td>
+    <td>56800</td>
+    <td>35100</td>
+    <td>4</td>
+    <td>29</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/519?l=ru">Мишакова Любовь</a></td>
+    <td>104200</td>
+    <td>48000</td>
+    <td>22400</td>
+    <td>5</td>
+    <td>21</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/750?l=ru">Ладыгин Владимир</a></td>
+    <td>103800</td>
+    <td>68100</td>
+    <td>42700</td>
+    <td>7</td>
+    <td>22</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/249?l=ru">Шведов Евгений</a></td>
+    <td>100400</td>
+    <td>70200</td>
+    <td>28200</td>
+    <td>10</td>
+    <td>21</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/10?l=ru">Матвеева Алена</a></td>
+    <td>99600</td>
+    <td>37700</td>
+    <td>37000</td>
+    <td>3</td>
+    <td>21</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/388?l=ru">Колпаков Денис</a></td>
+    <td>99100</td>
+    <td>81900</td>
+    <td>26300</td>
+    <td>7</td>
+    <td>18</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/817?l=ru">Подлипаев Сергей</a></td>
+    <td>93900</td>
+    <td>84500</td>
+    <td>45100</td>
+    <td>3</td>
+    <td>29</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/55?l=ru">Лисихина Людмила</a></td>
+    <td>93400</td>
+    <td>67500</td>
+    <td>34000</td>
+    <td>5</td>
+    <td>20</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/36?l=ru">Порошин Семен</a></td>
+    <td>92900</td>
+    <td>31800</td>
+    <td>42100</td>
+    <td>4</td>
+    <td>17</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/16?l=ru">Фалько Ирина</a></td>
+    <td>92600</td>
+    <td>57500</td>
+    <td>40000</td>
+    <td>7</td>
+    <td>17</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/237?l=ru">Перфильев Роман</a></td>
+    <td>89300</td>
+    <td>75200</td>
+    <td>49400</td>
+    <td>8</td>
+    <td>13</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/810?l=ru">Клочков Андрей</a></td>
+    <td>81100</td>
+    <td>38800</td>
+    <td>18700</td>
+    <td>8</td>
+    <td>15</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1479?l=ru">Кульгаева Варвара</a></td>
+    <td>79700</td>
+    <td>69500</td>
+    <td>32600</td>
+    <td>4</td>
+    <td>12</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/225?l=ru">Плясунов Владислав</a></td>
+    <td>79400</td>
+    <td>65800</td>
+    <td>33400</td>
+    <td>3</td>
+    <td>13</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/567?l=ru">Соколова Мария</a></td>
+    <td>73400</td>
+    <td>77900</td>
+    <td>39900</td>
+    <td>3</td>
+    <td>19</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/378?l=ru">Ким Олег</a></td>
+    <td>61900</td>
+    <td>100500</td>
+    <td>36600</td>
+    <td>5</td>
+    <td>19</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Нетесов Николай</a></td>
+    <td>32800</td>
+    <td>66500</td>
+    <td>30200</td>
+    <td>2</td>
+    <td>7</td>
+  </tr>
+  <tr style="background-color: #dfd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/326?l=ru">Игрок замены 1</a></td>
+    <td>31100</td>
+    <td>29600</td>
+    <td>20200</td>
+    <td>0</td>
+    <td>6</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/1085?l=ru">Кригер Лариса</a></td>
+    <td>24200</td>
+    <td>39700</td>
+    <td>4000</td>
+    <td>1</td>
+    <td>6</td>
+  </tr>
+  <tr style="background-color: #fdd;">
+    <td><a href="https://gui.mjtop.net/eid216/user/770?l=ru">Лавникевич Сергей</a></td>
+    <td>0</td>
+    <td>98900</td>
+    <td>15300</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</tbody>
+</table>
+
+Красным выделены выигравшие меньше, чем набросили в рон. Выигрыш включает в себя победы по рон и цумо, включая хонбу и чужие риичи-палки, в том числе и оставшиеся с предыдущих раздач. Выплаты по рон и цумо включают хонбу.
+
+<ul>
+  <li>Самые разнообразные руки турнира (больше всего различных яку): Риичи, иппацу, пинфу, иипейко плюс:
+    <ul><li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-8fbc8d2a&tw=0&ts=0">таняо, цумо, дора 0</a> — 6 хан, <a href="https://gui.mjtop.net/eid216/user/218?l=ru">Виталий Борзоногов</a> (дилер)</li>
+    <li><a href="http://tenhou.net/0/?log=2019090117gm-0009-11032-fb08a1c2&tw=0&ts=1">иццу, чиницу, дора 0</a> — 12 хан, <a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Павел Потапов</a></li>
+    </ul></li>
+  <li>Больше всего хан без дор:
+    <ul>
+      <li><a href="http://tenhou.net/0/?log=2019090117gm-0009-11032-fb08a1c2&tw=0&ts=1">12 хан</a>: риичи, иппацу, пин-фу, иипейко, иццу, чиницу, дора 0 — <a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Павел Потапов</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090121gm-0009-11032-ac99ff0c&tw=2&ts=10">8 хан</a>: тойтой, хонрото, хоницу, якухай 2, дора 0 — <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090116gm-0009-11032-4f6163c0&tw=0&ts=11">7 хан</a>: тойтой, хоницу, якухай 3, дора 0 — <a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Григорий Вовненко</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-2edfb1f3&tw=3&ts=4">6 хан</a>: риичи, мендзен цумо, пин-фу, саншоку, таняо, дора 2 — <a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Григорий Вовненко</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-8fbc8d2a&tw=0&ts=0">6 хан</a>: риичи, иппацу, мендзен цумо, пин-фу, иипейко, таняо, дора 0 — <a href="https://gui.mjtop.net/eid216/user/218?l=ru">Виталий Борзоногов</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-2edfb1f3&tw=0&ts=5">6 хан</a>: дабл риичи, иппацу, мендзен цумо, чиитойцу, дора 0 — <a href="https://gui.mjtop.net/eid216/user/847?l=ru">Ольга Гришина</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090117gm-0009-11032-ef2d83f3&tw=2&ts=2">6 хан</a>: сананко, тойтой, якухай 2, дора 0 — <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090119gm-0009-11032-f4bdce9f&tw=2&ts=2">6 хан</a>: риичи, хоницу, якухай 2, дора 0 — <a href="https://gui.mjtop.net/eid216/user/570?l=ru">Ренат Курмаев</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090117gm-0009-11032-4eb90d49&tw=1&ts=8">6 хан</a>: тойтой, хоницу, якухай 2, дора 0 — <a href="https://gui.mjtop.net/eid216/user/321?l=ru">Анна Петрова</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-ca82efa3&tw=3&ts=13">6 хан</a>: хоницу, якухай 3, дора 0 — <a href="https://gui.mjtop.net/eid216/user/9?l=ru">Валерия Ким</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-e969604c&tw=3&ts=2">6 хан</a>: таняо, чиницу, дора 0 — <a href="https://gui.mjtop.net/eid216/user/70?l=ru">Андрей Ермолаев</a></li>
+    </ul>
+  </li>
+  <li>Больше всего дор в руке:
+    <ul>
+      <li><a href="http://tenhou.net/0/?log=2019090116gm-0009-11032-4f6163c0&tw=0&ts=0">9 дор</a>: риичи, сананко, тойтой, якухай 1, дора 9 — <a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Григорий Вовненко</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090120gm-0009-11032-bbb28ea4&tw=2&ts=9">8 дор</a>: таняо, дора 8 — <a href="https://gui.mjtop.net/eid216/user/733?l=ru">Евгений Денисов</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090121gm-0009-11032-3c748484&tw=1&ts=4">6 дор</a>: риичи, иппацу, таняо, дора 6 — <a href="https://gui.mjtop.net/eid216/user/15?l=ru">Елена Титова</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-1668bf9c&tw=3&ts=9">6 дор</a>: таняо, дора 6 — <a href="https://gui.mjtop.net/eid216/user/214?l=ru">Владимир Богданов</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090116gm-0009-11032-4f6163c0&tw=2&ts=7">5 дор</a>: риичи, мендзен цумо, таняо, дора 5 — <a href="https://gui.mjtop.net/eid216/user/214?l=ru">Владимир Богданов</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-7be65c04&tw=0&ts=11">5 дор</a>: риншан кайхо, таняо, дора 5 — <a href="https://gui.mjtop.net/eid216/user/817?l=ru">Сергей Подлипаев</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090121gm-0009-11032-3c748484&tw=1&ts=6">5 дор</a>: хоницу, дора 5 — <a href="https://gui.mjtop.net/eid216/user/15?l=ru">Елена Титова</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090120gm-0009-11032-84197c0b&tw=1&ts=8">5 дор</a>: якухай 1, дора 5 — <a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Григорий Вовненко</a></li>
+    </ul>
+  </li>
+  <li>Другие дорогие счётные руки: 
+    <ul>
+      <li><a href="http://tenhou.net/0/?log=2019090119gm-0009-11032-5b80ed8f&tw=0&ts=1">9 хан</a>: чиницу, дора 4 — <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090119gm-0009-11032-9a51d5b4&tw=0&ts=5">9 хан</a>: риичи, пин-фу, саншоку, таняо, дора 4 — <a href="https://gui.mjtop.net/eid216/user/750?l=ru">Владимир Ладыгин</a></li>
+      <li><a href="http://tenhou.net/0/?log=2019090118gm-0009-11032-52b95a2e&tw=3&ts=5">9 хан</a>: риичи, мендзен цумо, пин-фу, саншоку, дора 4 — <a href="https://gui.mjtop.net/eid216/user/16?l=ru">Ирина Фалько</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090122gm-0009-11032-8ce03810&tw=2&ts=9">8 хан</a>: хоницу, якухай 2, дора 4 — <a href="https://gui.mjtop.net/eid216/user/214?l=ru">Владимир Богданов</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090121gm-0009-11032-562168b1&tw=3&ts=6">8 хан</a>: хоницу, якухай 2, дора 4 — <a href="https://gui.mjtop.net/eid216/user/316?l=ru">Дмитрий Мишаков</a></li>
+    </ul>
+  </li>
+  <li>Якуманы:
+    <ul>
+      <li><a href="http://tenhou.net/0/?log=2019090116gm-0009-11032-6b4957ca&tw=1&ts=6">Дайсанген</a> — <a href="https://gui.mjtop.net/eid216/user/263?l=ru">Андрей Елшанкин</a> (дилер)</li>
+      <li><a href="http://tenhou.net/0/?log=2019090121gm-0009-11032-562168b1&tw=2&ts=1">Кокуши мусо</a> — <a href="https://gui.mjtop.net/eid216/user/218?l=ru">Виталий Борзоногов</a></li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a href="https://gui.mjtop.net/eid216/user/263?l=ru">Андрей Елшанкин</a> заработал больше всего очков — 206&nbsp;400, средняя стоимость руки — 7900.</li>
+  <li>Самые дорогие руки собирали <a href="https://gui.mjtop.net/eid216/user/753?l=ru">Александр Бердников</a> и <a href="https://gui.mjtop.net/eid216/user/1130?l=ru">Григорий Вовненко</a> — средняя стоимость руки 8800 и 8700 соответственно.</li>
+  <li>Меньше всех заплатил по рон <a href="https://gui.mjtop.net/eid216/user/36?l=ru">Семен Порошин</a> — 31&nbsp;800 за 9 набросов, в среднем по 3500 за наброс — лучшая защита турнира. Наименьшие потери от чужих побед у <a href="https://gui.mjtop.net/eid216/user/810?l=ru">Андрея Клочкова</a> — 38&nbsp;800 заплатил по рон и 18&nbsp;700 по цумо</li>
+  <li><a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Павел Потапов</a> совершил больше всего набросов в рон — 23 (29%, среднаяя стоимость наброса 6000). <a href="https://gui.mjtop.net/eid216/user/15?l=ru">Елена Титова</a> больше всех заплатила за набросы — 142&nbsp;700 очков, в среднем 7900 за наброс.</li>
+  <li>Больше всего на темпаях заработала <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> — 9&nbsp;500 за 14 ничьих (12&nbsp;500 получила за темпаи и 3&nbsp;000 отдала по нотен). Хуже всех формальный темпай собирал <a href="https://gui.mjtop.net/eid216/user/382?l=ru">Кирилл Пенкин</a>, — -9&nbsp;000 за 15 ничьих (+5&nbsp;000, -14&nbsp;000). Больше всего ничьих у <a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Николая Нетесова</a> (16, -2&nbsp;500), меньше всего у <a href="https://gui.mjtop.net/eid216/user/10?l=ru">Алены Матвеевой</a> (3, +4&nbsp;000) и <a href="https://gui.mjtop.net/eid216/user/1086?l=ru">Павла Потапова</a> (3, +1&nbsp;500).</li>
+  <li><a href="https://gui.mjtop.net/eid216/user/847?l=ru">Ольга Гришина</a> съела больше всего чужих риичи-палок (14). <a href="https://gui.mjtop.net/eid216/user/570?l=ru">Ренату Курмаеву</a> и <a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Николаю Нетесову</a> за семь ханчанов удалось выиграть только две.</li>
+  <li>Больше всего дор собрал <a href="https://gui.mjtop.net/eid216/user/214?l=ru">Владимир Богданов</a> — 37 (в среднем 1.9 доры в победной руке). Меньше всего дор собрал <a href="https://gui.mjtop.net/eid216/user/1095?l=ru">Николай Нетесов</a> — 7 дор, в среднем 0.9 доры в руке.</li> 
+  <li>Наиболее бережное отношение к дорам у <a href="https://gui.mjtop.net/eid216/user/753?l=ru">Александра Бердникова</a> (2.4 доры в руке). Хуже всех встраивала доры <a href="https://gui.mjtop.net/eid216/user/1479?l=ru">Варвара Кульгаева</a> — 0.67 дор в руке. Среднее по турниру — 1.28 доры в победной руке.</li>
+  <li>Приветствуем самого многогранного игрока — <a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софью Зыкову</a>, собравшую 15 различных яку за турнир, в том числе: хонрото, сананко и риншай кайхо.</li>
+  <li><a href="https://gui.mjtop.net/eid216/user/879?l=ru">Софья Зыкова</a> собрала больше всех якухаев за турнир — 15. Меньше всех якухаев собрали <a href="https://gui.mjtop.net/eid216/user/15?l=ru">Елена Титова</a> и <a href="https://gui.mjtop.net/eid216/user/750?l=ru">Владимир Ладыгин</a> — по одному.</li>
+</ul>
